@@ -7,8 +7,6 @@ https://fribeirofaria-dsvendas.netlify.app
 
 DSVendas é uma aplicação full stack web construída durante a 3ª edição da **Semana Spring Reactr** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
-
 
 # Tecnologias utilizadas
 ## Back end
